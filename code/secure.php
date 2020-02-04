@@ -17,5 +17,6 @@ if (isset($_SESSION['status'])
  <body>
   <h1>Secure Page</h1>
   <p><?php echo $msg; ?> go here...</p>
+<p><a href="/logout.php">Logout</a></p>
  </body>
 </html>
