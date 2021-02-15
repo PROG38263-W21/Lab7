@@ -1,4 +1,4 @@
-# Lab 8 - Open Redirection Vulnerability and PHP
+# Lab 7 - Open Redirection Vulnerability and PHP
 
 ## Setup
 
