@@ -1,9 +1,9 @@
-# Lab 8 - Open Redirection Vulerability and PHP
+# Lab 8 - Open Redirection Vulnerability and PHP
 
 ## Setup
 
-* git clone https://github.com/prog38263/lab8
-* cd lab8
+* git clone https://github.com/PROG38263-W21/Lab7.git
+* cd Lab7
 * docker-compose build && docker-compose up
 * In a browser, navigate to the root directory of your virtual machine
 
